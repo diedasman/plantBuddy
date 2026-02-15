@@ -1,0 +1,22 @@
+{
+  "device_id": "plantbuddy-001",
+  "timestamp": "2026-01-24T17:32:10Z",
+  "sensors": {
+    "temperature": {
+      "value": 23.6,
+      "unit": "°C"
+    },
+    "soil_moisture": {
+      "value": 41,
+      "unit": "%"
+    },
+    "illumination": {
+      "value": 312,
+      "unit": "lux"
+    }
+  },
+  "battery": {
+    "value": 3.92,
+    "unit": "V"
+  }
+}
